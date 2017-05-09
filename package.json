@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/btzr-io/webpack-md-icons#readme",
   "dependencies": {
-    "material-design-icons-font": "luhuiguo/material-iconfont"
+    "material-icons-font": "^1.1.1"
   }
 }
