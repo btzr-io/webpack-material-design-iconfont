@@ -1,0 +1,26 @@
+{
+  "name": "webpack-material-iconfont",
+  "version": "0.1.0",
+  "description": "Material design icons font for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btzr-io/webpack-material-iconfont.git"
+  },
+  "keywords": [
+    "webpack",
+    "material",
+    "design",
+    "icons",
+    "font"
+  ],
+  "author": "Baltazar Gomez <btzr.io@gamil.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btzr-io/webpack-material-iconfont/issues"
+  },
+  "homepage": "https://github.com/btzr-io/webpack-material-iconfont#readme",
+  "dependencies": {
+    "material-iconfont": "luhuiguo/material-iconfont"
+  }
+}
