@@ -1,1 +1,1 @@
-module.exports = require('~material-icons-font/material-icons-font.css');
+module.exports = require('./material-icons.css');
