@@ -15,7 +15,7 @@
     "font"
   ],
   "author": "Baltazar Gomez <btzr.io@gamil.com>",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/btzr-io/webpack-md-icons/issues"
   },
